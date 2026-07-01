@@ -18,8 +18,8 @@ As principais funcionalidades são:
 2. Executar um método de compressão por transformada de Fourier em grafos para todas as imagens na pasta input.
 3. Descomprimir e exibir uma imagem comprimida na pasta output.
 4. Gerar relatórios de compressão para as instâncias de input, com as combinações de configurações definidas no código:
-- Conf. 1: Executa para diversos shapes de subimagens.
-- Conf. 2: Executa para diversas taxas de compressão (2%, 5%, 10% e 20%).
+    - Conf. 1: Executa para diversos shapes de subimagens.
+    - Conf. 2: Executa para diversas taxas de compressão (2%, 5%, 10% e 20%).
 5. Gera relatórios para a compressão tradicional por wavelets de Haar e pela FFT.
 
 Os parâmetros ajustáveis de compressão são: 
