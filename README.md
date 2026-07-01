@@ -3,14 +3,14 @@
 Esse repositório contém uma implementação da transformada de Fourier em grafos (GFT) para compressão de imagens. 
 
 Primeiro, instale as dependências com:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Para iniciar o programa, execute:
-'''
+```
 python -m gft.cli
-'''
+```
 
 As principais funcionalidades são:
 
